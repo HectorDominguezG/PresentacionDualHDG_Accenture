@@ -80,7 +80,7 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/d56992a7
 Ejemplo de RegisterServlet.
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/LoginServlet_captura.png" alt="Servlet Login" width="600">
+  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/RegisterServlet.jpeg" alt="Servlet Register" width="600">
 </p>
 
 
