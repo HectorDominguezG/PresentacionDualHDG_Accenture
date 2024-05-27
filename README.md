@@ -18,7 +18,7 @@ Vista general de la estructura del proyecto.
 
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/estructura.png" alt="Estructura del Proyecto" width="600">
+  <img src="https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/blob/main/estructura.png" alt="Estructura del Proyecto" width="600">
 </p>
 
 ---
@@ -28,7 +28,7 @@ Vista general de la estructura del proyecto.
 Se inicia sesión con un usuario inexistente, después del error se procede al registro.
 
 
-https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/3cf0a15b-b1ff-4256-8b35-dc85c3b8c805
+https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/assets/146203038/3cf0a15b-b1ff-4256-8b35-dc85c3b8c805
 
 
 
@@ -41,7 +41,7 @@ Se muestran los distintos JSP.
 
 
 
-https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/467faf48-058f-4eec-92bd-98ed4e9cfd9a
+https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/assets/146203038/467faf48-058f-4eec-92bd-98ed4e9cfd9a
 
 
 
@@ -56,7 +56,7 @@ Se modifican "Email" y "Contraseña", con la eliminación de la cuenta.
 
 
 
-https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/0de7d3a0-2453-4029-8671-93a7204e8091
+https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/assets/146203038/0de7d3a0-2453-4029-8671-93a7204e8091
 
 
 
@@ -69,7 +69,7 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/0de7d3a0
 
 
 
-https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/d56992a7-1716-47cc-894e-7d7ff444b3ee
+https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/assets/146203038/d56992a7-1716-47cc-894e-7d7ff444b3ee
 
 
 
@@ -80,7 +80,7 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/d56992a7
 Ejemplo de RegisterServlet.
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/RegisterServlet.jpeg" alt="Servlet Register" width="600">
+  <img src="https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/blob/main/RegisterServlet.jpeg" alt="Servlet Register" width="600">
 </p>
 
 
@@ -91,7 +91,7 @@ Ejemplo de RegisterServlet.
 Base de datos creada según tutores.
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDualHDG_Accenture/blob/main/portal_bd.png" alt="Servlet Login" width="600">
+  <img src="https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/blob/main/portal_bd.png" alt="Servlet Login" width="600">
 </p>
 
 ---
