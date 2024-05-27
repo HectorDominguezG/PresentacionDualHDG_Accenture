@@ -1,4 +1,4 @@
-# Presentación Dual FP Accenture - Jose Molina
+# PresentacionDualHDG_Accenture
 
 Bienvenido a la presentación del proyecto que hemos realizado en las prácticas de FP-DUAL en Accenture. Este repositorio contiene varios recursos multimedia que explican diferentes aspectos del proyecto. A continuación, encontrarás los videos y las imágenes que detallan el funcionamiento y la estructura del proyecto.
 
@@ -75,23 +75,14 @@ https://github.com/Jmolmel/PresentacionDual_JoseMolina/assets/146203038/d56992a7
 
 ---
 
-## Servlet Login
+## Servlet Register
 
-Ejemplo de LoginServlet y método que según email obtiene su ID en tabla credentials.
+Ejemplo de RegisterServlet.
 
 <p align="center">
   <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/LoginServlet_captura.png" alt="Servlet Login" width="600">
 </p>
 
----
-
-## Services.getUserById
-
-Se muestra el constructor obteniendo los datos por query.
-
-<p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/getUserById.png" alt="Servlet Login" width="600">
-</p>
 
 ---
 
