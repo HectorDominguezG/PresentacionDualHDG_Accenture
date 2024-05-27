@@ -91,7 +91,7 @@ Ejemplo de RegisterServlet.
 Base de datos creada según tutores.
 
 <p align="center">
-  <img src="https://github.com/Jmolmel/PresentacionDual_JoseMolina/blob/main/portal_bd.png" alt="Servlet Login" width="600">
+  <img src="https://github.com/Jmolmel/PresentacionDualHDG_Accenture/blob/main/portal_bd.png" alt="Servlet Login" width="600">
 </p>
 
 ---
