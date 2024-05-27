@@ -80,7 +80,7 @@ https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/assets/1462030
 Ejemplo de RegisterServlet.
 
 <p align="center">
-  <img src="https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/blob/main/RegisterServlet.jpeg" alt="Servlet Register" width="600">
+  <img src="https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture/blob/main/RegisterServlet2.jpeg" alt="Servlet Register" width="600">
 </p>
 
 
