@@ -6,7 +6,7 @@ Bienvenido a la presentación del proyecto que hemos realizado en las prácticas
 
 ## Presentación grupal
 
-Acceda a CANVA [aquí](https://www.canva.com/design/DAGGN6EK2kc/HYAimlMYs5RSJxU7h1lwqw/view?utm_content=DAGGN6EK2kc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+Acceda a CANVA [aquí](https://www.canva.com/design/DAGGN6EK2kc/HYAimlMYs5RSJxU7h1lwqw/view?utm_content=DAGGN6EK2kc&utm_campaign=designshare&utm_medium=link&utm_source=editor) o en el PDF del repositorio.
 
 
 
